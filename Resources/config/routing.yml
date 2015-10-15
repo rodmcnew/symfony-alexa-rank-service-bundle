@@ -1,0 +1,3 @@
+simple_alexa_rank_alexa_rank_service_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SimpleAlexaRankAlexaRankServiceBundle:Default:index }
